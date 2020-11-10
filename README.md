@@ -1,2 +1,2 @@
 # Socket-Car
-This is a video transmission car ,which can communicate with Windows and Linux by Socekt.
+可以传输图像的小车，小车开发环境是树莓派，可以执行避障，和跟踪。(本科毕业设计)
